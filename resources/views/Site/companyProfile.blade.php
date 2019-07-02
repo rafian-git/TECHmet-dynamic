@@ -31,6 +31,12 @@
     <link rel="stylesheet" href="public/Site/css/gallery.css">
     <!-- End CSS Files -->
 
+    <style>
+        th{
+            width: 30%;
+        }
+    </style>
+
 </head>
 
 
@@ -96,171 +102,121 @@
     <!-- End Navigation Section -->
 
 
-    <section id="prices" class="container-fluid">
+    <section id="companyProfile" class="container">
 
-        <div class="inner prices" style="padding-bottom:0px;margin-bottom:0px;">
+        <h3 style="text-align: center; margin-bottom: 20px;">TECHmet Company Profile At A Glance</h3>
 
+        <p style="text-align: center; margin-bottom: 30px;">
+            We are a team of believers, thinkers, and creators. We are customer-centric and crazy enough
+            to innovate and create new opportunities
+        </p>
 
-            <!-- Header -->
-            <div class="header ">
-                Hosting Plans
-            </div>
+        <table class="table table-bordered">
+            <tr>
+                <th>Name of Company</th>
+                <td>TECHmet IT</td>
+            </tr>
+            <tr>
+                <th>Year Established</th>
+                <td>April 2018</td>
+            </tr>
+            <tr>
+                <th>Type of Business</th>
+                <td>Private Company</td>
+            </tr>
+            <tr>
+                <th>Business Function</th>
+                <td>Website Design, Web Application, Software Development & Digital Marketing </td>
+            </tr>
+            <tr>
+                <th>Founder & CEO</th>
+                <td>Rakib Bin Awal</td>
+            </tr>
+            <tr>
+                <th>Corporate Office Address</th>
+                <td>House #229, Road #6, Mohammadi Housing LTD, Dhaka-1207, Bangladesh <br>
+                    Singapore Office: 792 choa chu kang, North 6, #07-260, Singapore 680792
+                </td>
+            </tr>
+            {{--<tr>--}}
+                {{--<th>Members of</th>--}}
+                {{--<td></td>--}}
+            {{--</tr>--}}
+            <tr>
+                <th>Total Employees</th>
+                <td>8</td>
+            </tr>
+            {{--<tr>--}}
+                {{--<th>Departments</th>--}}
+                {{--<td></td>--}}
+            {{--</tr>--}}
+            <tr>
+                <th>Website Address</th>
+                <td>https://techmetbd.com/</td>
+            </tr>
+            <tr>
+                <th>Company Email</th>
+                <td>inbox@techmetbd.com</td>
+            </tr>
+            {{--<tr>--}}
+                {{--<th>Skype Address</th>--}}
+                {{--<td></td>--}}
+            {{--</tr>--}}
+            <tr>
+                <th>Company Phone</th>
+                <td>(+88) 01307108222<br>
+                    (+88) 01624666124</td>
+            </tr>
+            {{--<tr>--}}
+                {{--<th>Company Hotline</th>--}}
+                {{--<td></td>--}}
+            {{--</tr>--}}
+            <tr>
+                <th>Areas of Expertise</th>
+                <td>Website Design, Web Application, Software Development, Graphics Design, SMS marketing & Digital Marketing </td>
+            </tr>
+            <tr>
+                <th>Market Coverage</th>
+                <td>Bangladesh, Uk, Singapore</td>
+            </tr>
+            <tr>
+                <th>Logo</th>
+                <td><img src="public/Site/images/logo.png" alt="TECHmet_logo"></td>
+            </tr>
+            <tr>
+                <th>Motto</th>
+                <td>Your TECH demands met</td>
+            </tr>
+            <tr>
+                <th>Vision</th>
+                <td>New opportunities bring new inspiration and digital era is generous with possibilities.
+                    Through our work, we show and spread the benefits of positive digital experience,
+                    let our clients enjoy the faster, easier and more productive way of business management and encourage
+                    the emergence of new transformative projects.</td>
+            </tr>
+            <tr>
+                <th>Mission</th>
+                <td>
+                    Our mission is to help you to enhance and grow your business while overcoming technology challenges.
+                    Whether there is a need for website development, efficient project management or a full-scale digital
+                    transformation, TECHmet’s and constantly updated insight on the latest custom software development tendencies,
+                    powerful leadership and next level technologies are here to empower business owners with the benefits of the digital world.
+                </td>
+            </tr>
+            <tr>
+                <th>Bank Information</th>
+                <td>Name of Bank : BANK Asia<br>
 
-            <!-- Second Header -->
-            <div class="page-desc ">
-                We offer a wide range of hosting plans for you. Find the one that suits your need.
-            </div>
+                    Address of Bank : Banani Branch<br>
 
-            <div class="packages">
-                <!-- First Package -->
-                <div class="package first animated" data-animation="flipInY" data-animation-delay="100">
-                    <!-- Package Header -->
-                    <h1>Personal Light</h1>
-                    <!-- Package Price -->
-                    <div class="circle">
-                        <h2>৳900 <span>.00</span></h2>
-                        <p>anually</p>
-                    </div>
-                    <!-- Package Properties -->
-                    <ol>
-                        <li><b> 500MB </b>Web space</li>
-                        <li><span>20GB </span>Data Transfer</li>
-                        <li><span>PHP & Mysql </span>Supported</li>
-                        <li><span>500 email </span>accounts</li>
-                        <li><span>100 </span> Sub-domains</li>
-                        <li><span>FTP & cPanel</span> support</li>
-                        <li><span>1 </span> max SQL database</li>
-                    </ol>
-                    <!-- Package Button -->
-                    <a class="p-btn" href="{{ route('contact') }}">Contact Now</a>
-                </div>
+                    Account No : 01233054049<br>
 
-                <!-- Second Package -->
-                <div class="package active animated" data-animation="flipInY" data-animation-delay="300">
-                    <!-- Package Header -->
-                    <h1>Personal Heavy</h1>
-                    <!-- Package Price -->
-                    <div class="circle">
-                        <h2>৳1250 </h2>
-                        <p>anually</p>
-                    </div>
-                    <!-- Package Properties -->
-                    <ol>
-                        <li><b> 1GB </b>Web space</li>
-                        <li><span>40GB </span>Data Transfer</li>
-                        <li><span>PHP & Mysql </span>Supported</li>
-                        <li><span>500 email </span>accounts</li>
-                        <li><span> 200 </span> Sub-domains</li>
-                        <li><span>FTP & cPanel</span> support</li>
-                        <li><span>2 </span> max SQL database</li>
-                    </ol>
-                    <!-- Package Button -->
-                    <a class="p-btn" href="{{ route('contact') }}">Contact Now</a>
-                </div>
+                    Account Name : TECHmetBD </td>
+            </tr>
 
-                <!-- Third Package -->
-                <div class="package animated" data-animation="flipInY" data-animation-delay="500">
-                    <!-- Package Header -->
-                    <h1>SME Light</h1>
-                    <!-- Package Price -->
-                    <div class="circle">
-                        <h2>৳5000 </h2>
-                        <p>anually</p>
-                    </div>
-                    <!-- Package Properties -->
-                    <ol>
-                        <li><b> 5GB </b>Web space</li>
-                        <li><span>100GB </span>Data Transfer</li>
-                        <li><span>PHP & Mysql </span>Supported</li>
-                        <li><span>500 email </span>accounts</li>
-                        <li><span>500 </span> Sub-domains</li>
-                        <li><span>FTP & cPanel</span> support</li>
-                        <li><span>5 </span> max SQL database</li>
-                    </ol>
-                    <!-- Package Button -->
-                    <a class="p-btn" href="{{ route('contact') }}">Contact Now</a>
-                </div>
+        </table>
 
-                <!-- Fourth Package -->
-                <div class="package last animated" data-animation="flipInY" data-animation-delay="700">
-                    <!-- Package Header -->
-                    <h1>SME Heavy</h1>
-                    <!-- Package Price -->
-                    <div class="circle">
-                        <h2>৳8000</h2>
-                        <p>anually</p>
-                    </div>
-                    <!-- Package Properties -->
-                    <ol>
-                        <li><b> 10GB </b>Web space</li>
-                        <li><span>200GB </span>Data Transfer</li>
-                        <li><span>PHP & Mysql </span>Supported</li>
-                        <li><span>750 email </span>accounts</li>
-                        <li><span>500 </span> Sub-domains</li>
-                        <li><span>FTP & cPanel</span> support</li>
-                        <li><span>10 </span> max SQL database</li>
-                    </ol>
-                    <!-- Package Button -->
-                    <a class="p-btn" href="{{ route('contact') }}">Contact Now</a>
-                </div>
-                <div class="clear"></div>
-            </div><!-- End Packages -->
-        </div><!-- End inner div -->
-        <div class="inner prices" style="padding:0px;margin-top:0px;margin-left:auto;margin-right:auto;">
-            <div class="packages text-center">
-
-                <div class="package last animated" data-animation="flipInY" data-animation-delay="700" style="border:1px solid white;">
-                </div>
-                <!-- Fourth Package -->
-                <div class="package last animated" data-animation="flipInY" data-animation-delay="700">
-                    <!-- Package Header -->
-                    <h1>Corporate Light</h1>
-                    <!-- Package Price -->
-                    <div class="circle">
-                        <h2>৳12,500</h2>
-                        <p>anually</p>
-                    </div>
-                    <!-- Package Properties -->
-                    <ol>
-                        <li><b> 20GB </b>Web space</li>
-                        <li><span>400GB </span>Data Transfer</li>
-                        <li><span>PHP & Mysql </span>Supported</li>
-                        <li><span>1000 email </span>accounts</li>
-                        <li><span>500 </span> Sub-domains</li>
-                        <li><span>FTP & cPanel</span> support</li>
-                        <li><span>20 </span> max SQL database</li>
-                    </ol>
-                    <!-- Package Button -->
-                    <a class="p-btn" href="{{ route('contact') }}">Contact Now</a>
-                </div>
-
-                <!-- Fourth Package -->
-                <div class="package last animated" data-animation="flipInY" data-animation-delay="700">
-                    <!-- Package Header -->
-                    <h1>Corporate Heavy</h1>
-                    <!-- Package Price -->
-                    <div class="circle">
-                        <h2>৳20,000</h2>
-                        <p>anually</p>
-                    </div>
-                    <!-- Package Properties -->
-                    <ol>
-                        <li><b> 40GB </b>Web space</li>
-                        <li><span>600GB </span>Data Transfer</li>
-                        <li><span>PHP & Mysql </span>Supported</li>
-                        <li><span>UNLIMITED email </span>accounts</li>
-                        <li><span>UNLIMITED </span> Sub-domains</li>
-                        <li><span>FTP & cPanel</span> support</li>
-                        <li><span>40 </span> max SQL database</li>
-                    </ol>
-                    <!-- Package Button -->
-                    <a class="p-btn" href="{{ route('contact') }}">Contact Now</a>
-                </div>
-
-                <div class="clear"></div>
-            </div><!-- End Packages -->
-        </div><!-- End inner div -->
-    </section><!-- End Prices Section -->
+    </section>
 
     <div class="container">
         <section id="text-area" style="margin-bottom: 40px;border-radius: 6px;">
@@ -339,6 +295,7 @@
         </div> <!-- End Footer inner -->
 
     </section><!-- End Footer Section -->
+</section>
 
 
     <!-- Back To Top Button -->

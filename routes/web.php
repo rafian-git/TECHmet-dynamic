@@ -35,11 +35,12 @@ Route::post('/category-update',  'CategoryController@update_categorty') ->name('
 Route::post('/category-delete',  'CategoryController@delete_categorty') ->name('category.delete');
 
 // ---------------------SITE ROUTE
-Route::get ('/',  'SiteController@index') ->name('index');
-Route::get ('/team',  'SiteController@team') ->name('team');
-Route::get ('/contact',  'SiteController@contact') ->name('contact');
-Route::get ('/project/{id}',  'SiteController@project_details') ->name('project.show.details');
-Route::post('/send-msg',  'SiteController@send_msg') ->name('contact.send');
+Route::get ('/',                'SiteController@index')            ->name('index');
+Route::get ('/team',            'SiteController@team')             ->name('team');
+Route::get ('/contact',         'SiteController@contact')          ->name('contact');
+Route::get ('/project/{id}',    'SiteController@project_details')  ->name('project.show.details');
+Route::post('/send-msg',        'SiteController@send_msg')         ->name('contact.send');
+Route::get ('/company-profile', 'SiteController@companyProfile')   ->name('company.profile');
 
 // ServiceController
 Route::get ('/web-application',         'ServiceController@web_app')           ->name('web_app');

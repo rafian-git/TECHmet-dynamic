@@ -89,6 +89,7 @@
                     <li><a class="scroll" href="#packages">Packages</a></li>
                     <li><a class="scroll" href="#portfolio">projects</a></li>
                     <li><a class="scroll" href="#services">about</a></li>
+                    <li><a class="scroll" href="{{ route('company.profile') }}">Profile</a></li>
                     <li><a class="scroll" href="{{ route('team') }}">team</a></li>
                     <li><a class="scroll" href="{{ route('contact') }}">contact</a></li>
 
@@ -105,6 +106,7 @@
                     <li><a class="scroll" href="#about">services</a></li>
                     <li><a class="scroll" href="#portfolio">projects</a></li>
                     <li><a class="scroll" href="#services">about</a></li>
+                    <li><a class="scroll" href="{{ route('company.profile') }}">Profile</a></li>
                     <li><a class="scroll" href="{{ route('team') }}">team</a></li>
                     <li><a class="scroll" href="{{ route('contact') }}">contact</a></li>
                 </ul>

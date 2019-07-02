@@ -61,4 +61,8 @@ class SiteController extends Controller
 
         return back();
     }
+
+    public function companyProfile(){
+        return view('Site.companyProfile');
+    }
 }

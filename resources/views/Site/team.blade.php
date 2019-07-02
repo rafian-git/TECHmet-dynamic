@@ -63,8 +63,9 @@
 						<li><a class="scroll" href="{{ route('index') }}#home">home</a></li>
 						<li><a class="scroll" href="{{ route('index') }}#about">services</a></li>
                         <li><a class="scroll" href="{{ route('index') }}#packages">Packages</a></li>
-						<li><a class="scroll" href="{{ route('index') }}#services">about</a></li>
                         <li><a class="scroll" href="{{ route('index') }}#portfolio">projects</a></li>
+						<li><a class="scroll" href="{{ route('index') }}#services">about</a></li>
+                        <li><a class="scroll" href="{{ route('company.profile') }}">Profile</a></li>
 						<li class="active"><a class="scroll" href="{{ route('team') }}">team</a></li>
 						<li><a class="scroll" href="{{ route('contact') }}">contact</a></li>
 
@@ -80,8 +81,9 @@
 						<li><a class="scroll" href="{{ route('home') }}#home">home</a></li>
 						<li><a class="scroll" href="{{ route('index') }}#about">services</a></li>
                         <li><a class="scroll" href="{{ route('index') }}#packages">Packages</a></li>
-						<li><a class="scroll" href="{{ route('index') }}#services">about</a></li>
                         <li><a class="scroll" href="{{ route('index') }}#portfolio">projects</a></li>
+						<li><a class="scroll" href="{{ route('index') }}#services">about</a></li>
+                        <li><a class="scroll" href="{{ route('company.profile') }}">Profile</a></li>
 						<li><a class="scroll" href="{{ route('team') }}">team</a></li>
 						<li><a class="scroll" href="{{ route('contact') }}">contact</a></li>
 					</ul>
