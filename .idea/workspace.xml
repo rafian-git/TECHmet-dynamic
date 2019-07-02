@@ -1,7 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0e18221-7926-4272-bf5c-abd4c9785e7b" name="Default Changelist" comment="" />
+    <list default="true" id="b0e18221-7926-4272-bf5c-abd4c9785e7b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ServiceController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ServiceController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/cache/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/cache/services.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Site/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/Site/images/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Site/images/i3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Site/images/i3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Site/images/i3a.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Site/images/i3a.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Site/images/rev-slider/slide1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Site/images/rev-slider/slide1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Site/images/rev-slider/slide3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Site/images/rev-slider/slide3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Site/images/w-iphone.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/Site/images/w-iphone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/71.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/71.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/bullet.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/bullet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/graphics/gd1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/graphics/gd1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/graphics/gd2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/graphics/gd2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/graphics/gd3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/graphics/gd3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/graphics/gd4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/graphics/gd4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/service/DATA ANALYSIS-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/service/DATA ANALYSIS-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/service/a.zip" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/service/a.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/service/adigital_marketing.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/service/adigital_marketing.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/service/aeCommerce.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/service/aeCommerce.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/service/aerp.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/service/aerp.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/service/agraphics.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/service/agraphics.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/service/ahosting.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/service/ahosting.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/service/amoble_app_dev.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/service/amoble_app_dev.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/service/asms.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/service/asms.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/service/aweb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/service/aweb.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/service/digital_marketing.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/service/digital_marketing.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/service/domain.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/service/domain.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/service/eCommerce.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/service/eCommerce.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/service/erp.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/service/erp.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/service/graphics.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/service/graphics.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/service/moble_app_dev.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/service/moble_app_dev.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/service/sms.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/service/sms.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/service/web.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/service/web.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/t/bullet.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/t/bullet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/tick.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/tick.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/tick2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/tick2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/tick3.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/files/tick3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Site.zip" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Site.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Site/contact.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Site/contact.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Site/hosting.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Site/hosting.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Site/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Site/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Site/project_details.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Site/project_details.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Site/service/digitalMarketing.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Site/service/digitalMarketing.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Site/service/eCommerce.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Site/service/eCommerce.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Site/service/erp.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Site/service/erp.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Site/service/graphics.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Site/service/graphics.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Site/service/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Site/service/master.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Site/service/mobileapp.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Site/service/mobileapp.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Site/service/sms.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Site/service/sms.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Site/service/web_application.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Site/service/web_application.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Site/team.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Site/team.blade.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,16 +67,43 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/Site/service/web_application.blade.php">
+        <entry file="file://$PROJECT_DIR$/resources/views/Site/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+            <state relative-caret-position="99">
+              <caret line="90" column="77" lean-forward="true" selection-start-line="90" selection-start-column="77" selection-end-line="90" selection-end-column="77" />
               <folding>
-                <element signature="e#2055#2083#0#HTML" expanded="true" />
-                <element signature="e#2126#2151#0#HTML" expanded="true" />
-                <element signature="e#2179#2207#0#HTML" expanded="true" />
-                <element signature="e#2340#2368#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#2;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#1;n#div#2;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/Site/contact.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/Site/hosting.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="587">
+              <caret line="81" column="96" selection-start-line="81" selection-start-column="96" selection-end-line="81" selection-end-column="96" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/Site/project_details.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="87" column="96" selection-start-line="87" selection-start-column="96" selection-end-line="87" selection-end-column="96" />
             </state>
           </provider>
         </entry>
@@ -35,7 +115,12 @@
       <find>ur Team Members</find>
       <find>section</find>
       <find>content</find>
+      <find>our pr</find>
+      <find>w-i</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -65,19 +150,19 @@
         <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/resources/views/Site/service/web-application.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/ServiceController.php" />
-        <option value="$PROJECT_DIR$/resources/views/Site/index.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/Site/project_details.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/Site/team.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Site/service/master.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/Site/contact.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Site/service/erp.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Site/service/eCommerce.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Site/service/mobileapp.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Site/service/digitalMarketing.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Site/service/graphics.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Site/service/sms.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/Site/hosting.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Site/service/web_application.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Site/contact.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Site/hosting.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Site/project_details.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Site/team.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Site/index.blade.php" />
       </list>
     </option>
   </component>
@@ -168,9 +253,9 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1470" />
-    <option name="y" value="232" />
-    <option name="width" value="1139" />
+    <option name="x" value="1842" />
+    <option name="y" value="296" />
+    <option name="width" value="987" />
     <option name="height" value="555" />
   </component>
   <component name="ProjectView">
@@ -183,34 +268,26 @@
         <subPane>
           <expand>
             <path>
-              <item name="ProjectUploader" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectUploader" type="462c0819:PsiDirectoryNode" />
+              <item name="TECHmet-dynamic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TECHmet-dynamic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ProjectUploader" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectUploader" type="462c0819:PsiDirectoryNode" />
+              <item name="TECHmet-dynamic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TECHmet-dynamic" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ProjectUploader" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectUploader" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectUploader" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectUploader" type="462c0819:PsiDirectoryNode" />
+              <item name="TECHmet-dynamic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TECHmet-dynamic" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="Site" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ProjectUploader" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectUploader" type="462c0819:PsiDirectoryNode" />
+              <item name="TECHmet-dynamic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TECHmet-dynamic" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="Site" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -271,17 +348,19 @@
       <workItem from="1561025775079" duration="10000" />
       <workItem from="1561360499459" duration="7210000" />
       <workItem from="1561438257900" duration="3959000" />
+      <workItem from="1562045369489" duration="82000" />
+      <workItem from="1562045485707" duration="3905000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67663000" />
+    <option name="totallyTimeSpent" value="71650000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1366" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22678763" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23585913" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -511,35 +590,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Site/contact.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="80" column="93" selection-start-line="80" selection-start-column="93" selection-end-line="80" selection-end-column="93" />
-          <caret line="64" column="93" selection-start-line="64" selection-start-column="93" selection-end-line="64" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Site/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="83" column="20" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Site/project_details.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="87" column="97" lean-forward="true" selection-start-line="87" selection-start-column="20" selection-end-line="87" selection-end-column="97" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Site/team.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="80" column="88" selection-start-line="80" selection-start-column="88" selection-end-line="80" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/Site/service/erp.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -582,20 +632,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Site/hosting.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="260" column="8" selection-start-line="260" selection-start-column="8" selection-end-line="265" selection-end-column="18" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#section#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#0;n#span#0;n#div#0;n#section#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#0;n#span#2;n#div#0;n#section#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/Site/service/sms.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-11">
@@ -619,13 +655,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/Site/service/web_application.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+        <state relative-caret-position="114">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Site/contact.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Site/hosting.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="81" column="96" selection-start-line="81" selection-start-column="96" selection-end-line="81" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Site/team.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Site/project_details.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="87" column="96" selection-start-line="87" selection-start-column="96" selection-end-line="87" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Site/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="90" column="77" lean-forward="true" selection-start-line="90" selection-start-column="77" selection-end-line="90" selection-end-column="77" />
           <folding>
-            <element signature="e#2055#2083#0#HTML" expanded="true" />
-            <element signature="e#2126#2151#0#HTML" expanded="true" />
-            <element signature="e#2179#2207#0#HTML" expanded="true" />
-            <element signature="e#2340#2368#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#2;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#2;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

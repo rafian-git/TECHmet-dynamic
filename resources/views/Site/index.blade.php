@@ -47,6 +47,12 @@
         .about-content {
             padding-bottom: 20px !important;
         }
+        .package ol li{
+            font-size: 16px !important;
+        }
+        #small-font{
+            font-size: 16px !important;
+        }
     </style>
 
 </head>
@@ -80,8 +86,9 @@
                 <ul class="nav main-nav">
                     <li class="active"><a class="scroll" href="#home">home</a></li>
                     <li><a class="scroll" href="#about">services</a></li>
-                    <li><a class="scroll" href="#services">about</a></li>
+                    <li><a class="scroll" href="#packages">Packages</a></li>
                     <li><a class="scroll" href="#portfolio">projects</a></li>
+                    <li><a class="scroll" href="#services">about</a></li>
                     <li><a class="scroll" href="{{ route('team') }}">team</a></li>
                     <li><a class="scroll" href="{{ route('contact') }}">contact</a></li>
 
@@ -96,8 +103,8 @@
                 <ul class="nav dropdown-menu fullwidth" role="menu">
                     <li><a class="scroll" href="#home">home</a></li>
                     <li><a class="scroll" href="#about">services</a></li>
-                    <li><a class="scroll" href="#services">about</a></li>
                     <li><a class="scroll" href="#portfolio">projects</a></li>
+                    <li><a class="scroll" href="#services">about</a></li>
                     <li><a class="scroll" href="{{ route('team') }}">team</a></li>
                     <li><a class="scroll" href="{{ route('contact') }}">contact</a></li>
                 </ul>
@@ -429,14 +436,114 @@
 
 <hr>
 
-<section id="portfolio" class="contain ">
+{{-- Package --}}
+<section id="packages" class="container">
+
+    <div class="inner prices" style="padding-bottom:0px;margin-bottom:0px;">
+
+        <!-- Header -->
+        <div class="header ">
+            our packages
+        </div>
+
+        <!-- Second Header -->
+        <div class="page-desc ">
+            We offer a wide range of packages for you. Find the one that suits your need.
+        </div>
+
+        <div class="packages">
+            <!-- First Package -->
+            <div class="package first animated" data-animation="flipInY" data-animation-delay="100">
+                <!-- Package Header -->
+                <h1>Micro Plan</h1>
+                <!-- Package Price -->
+                <div class="circle">
+                    <h2>৳15,000</h2>
+                    <p>BDT</p>
+                </div>
+                <!-- Package Properties -->
+                <ol>
+                    <li><b> 5,000 Like </b> - 2500 BDT</li>
+                    <li><span>5,000 SMS </span> (Non-Masking) - 1700</li>
+                    <li><span>Post Boost </span> (5K Reach) - 2000</li>
+                    <li><span>One Page </span> (WEBSITE) - 8000</li>
+                </ol>
+                <!-- Package Button -->
+                <a class="p-btn" style="margin-top: 22px;" href="{{ route('contact') }}">Contact Now</a>
+            </div>
+
+            <!-- Second Package -->
+            <div class="package active animated" data-animation="flipInY" data-animation-delay="300">
+                <!-- Package Header -->
+                <h1>Small plan</h1>
+                <!-- Package Price -->
+                <div class="circle">
+                    <h2>৳28,000</h2>
+                    <p>BDT</p>
+                </div>
+                <!-- Package Properties -->
+                <ol>
+                    <li><b> 10,000 Like </b> - 5,000 BDT</li>
+                    <li><span>10,000 SMS </span> (Non-Masking) - 3400</li>
+                    <li><span>Post Boost </span> (10K Reach) - 4000</li>
+                    <li><span>5 Page </span> (WEBSITE) - 15600</li>
+                </ol>
+                <!-- Package Button -->
+                <a class="p-btn" style="margin-top: 22px;" href="{{ route('contact') }}">Contact Now</a>
+            </div>
+
+            <!-- Third Package -->
+            <div class="package animated" data-animation="flipInY" data-animation-delay="500">
+                <!-- Package Header -->
+                <h1>Medium enterprise</h1>
+                <!-- Package Price -->
+                <div class="circle">
+                    <h2>৳60,000 </h2>
+                    <p>BDT</p>
+                </div>
+                <!-- Package Properties -->
+                <ol>
+                    <li><b> 15,000 Like </b> - 7500 BDT</li>
+                    <li><span>50,000 SMS </span> (Non-Masking) - 17,000</li>
+                    <li><span>Post Boost </span> (20K Reach) - 8000</li>
+                    <li><span>Dynamic</span> (WEBSITE) - 27500</li>
+                </ol>
+                <!-- Package Button -->
+                <a class="p-btn" style="margin-top: 22px;" href="{{ route('contact') }}">Contact Now</a>
+            </div>
+
+            <!-- Fourth Package -->
+            <div class="package last animated" data-animation="flipInY" data-animation-delay="700">
+                <!-- Package Header -->
+                <h1>Premimum enterprise</h1>
+                <!-- Package Price -->
+                <div class="circle">
+                    <h2>৳95,000</h2>
+                    <p>BDT</p>
+                </div>
+                <!-- Package Properties -->
+                <ol>
+                    <li><b> 20,000 Like </b> - 10000 BDT</li>
+                    <li><span>75,000 SMS </span> (Non-Masking) - 25500</li>
+                    <li><span>Post Boost </span> (30K Reach) - 12000</li>
+                    <li id="small-font"><span>Dynamic Site & Small Management System</span> - 47500</li>
+                </ol>
+                <!-- Package Button -->
+                <a class="p-btn" href="{{ route('contact') }}">Contact Now</a>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+</section>
+
+<section id="portfolio" class="container">
 
     <div class="inner">
 
         <!-- Portfolio Top Icon -->
-        <div class="contain-logo br">
-            <i class="fa fa-desktop "></i>
-        </div>
+        {{--<div class="contain-logo br" style="margin-top: 50px;">--}}
+            {{--<i class="fa fa-desktop"></i>--}}
+        {{--</div>--}}
 
         <!-- Header -->
         <div class="header">
@@ -503,7 +610,7 @@
                 <div class="inner">
                     <!-- Iphone images -->
                     <div class="w-iphone animated" data-animation="fadeInLeft" data-animation-delay="0">
-                        <img src="public/Site/images/w-iphone.png" alt="wisten-iphone">
+                        <img src="public/Site/images/logo-big2.png" alt="wisten-iphone">
                     </div>
 
                     <!-- accordion menu -->

@@ -62,9 +62,10 @@
                 <ul class="nav main-nav">
                     <li class="active"><a class="scroll" href="#home">home</a></li>
                     <li><a class="scroll" href="#about">services</a></li>
+                    <li><a class="scroll" href="{{ route('index') }}#packages">Packages</a></li>
+                    <li><a class="scroll" href="{{ route('index') }}#portfolio">projects</a></li>
                     <li><a class="scroll" href="#services">about</a></li>
                     <li><a class="scroll" href="{{ route('team') }}">team</a></li>
-                    <li><a class="scroll" href="{{ route('index') }}#portfolio">projects</a></li>
                     <li><a class="scroll" href="{{ route('contact') }}">contact</a></li>
 
                 </ul>
@@ -78,13 +79,15 @@
                 <ul class="nav dropdown-menu fullwidth" role="menu">
                     <li><a class="scroll" href="#home">home</a></li>
                     <li><a class="scroll" href="#about">services</a></li>
-                    <li><a class="scroll" href="#services">about</a></li>
+                    <li><a class="scroll" href="{{ route('index') }}#packages">Packages</a></li>
                     <li><a class="scroll" href="{{ route('index') }}#portfolio">projects</a></li>
+                    <li><a class="scroll" href="#services">about</a></li>
                     <li><a class="scroll" href="{{ route('team') }}">team</a></li>
                     <li><a class="scroll" href="{{ route('contact') }}">contact</a></li>
                 </ul>
 
-            <div class="clear"></div>
+                <div class="clear"></div>
+            </div>
         </div>
 
     </section>
@@ -267,8 +270,6 @@
     </div>
 
 
-
-
     <section id="footer">
 
         <div class="inner footer">
@@ -328,8 +329,8 @@
                 </a>
 
                 <a class="" href="https://goo.gl/maps/AJQicNc5BxZrLmGm9" target="_blank"><p class="footer-text">
-                    House #229, Road #6, Mohammadi Housing LTD, Dhaka-1207, Bangladesh
-                </p></a>
+                        House #229, Road #6, Mohammadi Housing LTD, Dhaka-1207, Bangladesh
+                    </p></a>
             </div>
 
             <div class="clear"></div>
@@ -366,26 +367,26 @@
     <script type="text/javascript" src="public/Site/js/jquery.fitvids.js"></script>
     <script type="text/javascript" src="public/Site/js/plugins.js"></script>
     <script type="text/javascript" src="public/Site/js/gallery.js"></script>
-public/Site/
+    public/Site/
     <!-- End JS Files -->
 
     <script>
 
     </script>
 
-<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/5d11dcd253d10a56bd7bb5ac/default';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script>
-<!--End of Tawk.to Script-->
+    <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+        var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+        (function () {
+            var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+            s1.async = true;
+            s1.src = 'https://embed.tawk.to/5d11dcd253d10a56bd7bb5ac/default';
+            s1.charset = 'UTF-8';
+            s1.setAttribute('crossorigin', '*');
+            s0.parentNode.insertBefore(s1, s0);
+        })();
+    </script>
+    <!--End of Tawk.to Script-->
 </body>
 
 
