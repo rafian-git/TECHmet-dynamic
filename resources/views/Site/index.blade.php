@@ -10,6 +10,11 @@
     <meta property="og:title"              content="TECHmet IT Solutions" />
     <meta property="og:description"        content="your TECH demands to be MET" />
     <meta property="og:image"              content="/images/logo-big2.png" />
+    <meta property="og:url"            content="http://www.techmetbd.com" />
+    <meta property="og:type"               content="article" />
+    <meta property="og:title"              content="TECHmet IT Solutions" />
+    <meta property="og:description"        content="your TECH demands to be MET" />
+    <meta property="og:image"              content="/images/logo-big2.png" />
      <!-- Favicon and Apple Icons-->
 
     <!-- SEO Meta Tags-->

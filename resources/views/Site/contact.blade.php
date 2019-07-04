@@ -5,6 +5,11 @@
 <head>
 
     <meta charset="utf-8"/>
+    <meta property="og:url"            content="http://www.techmetbd.com" />
+    <meta property="og:type"               content="article" />
+    <meta property="og:title"              content="TECHmet IT Solutions" />
+    <meta property="og:description"        content="your TECH demands to be MET" />
+    <meta property="og:image"              content="/images/logo-big2.png" />
     <title>Contact us : TECHmet</title>
     <meta name="description" content="your TECH demands to be MET"/>
     <meta name="keywords" content="IT , IT solutions , IT farm , Software farm ,Software solutions , TECHmet bd, TECHmet"/>

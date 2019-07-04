@@ -5,6 +5,11 @@
 <head>
 
     <meta charset="utf-8"/>
+    <meta property="og:url"            content="http://www.techmetbd.com" />
+    <meta property="og:type"               content="article" />
+    <meta property="og:title"              content="TECHmet IT Solutions" />
+    <meta property="og:description"        content="your TECH demands to be MET" />
+    <meta property="og:image"              content="/images/logo-big2.png" />
     <title>TECHmet</title>
     <meta name="description" content="your TECH demands to be MET"/>
     <meta name="keywords"
@@ -66,12 +71,12 @@
             <div class="nav-menu">
 
                 <ul class="nav main-nav">
-                    <li class="active"><a class="scroll" href="#home">home</a></li>
+                    <li class="scroll"><a class="scroll" href="/">home</a></li>
                     <li><a class="scroll" href="#about">services</a></li>
                     <li><a class="scroll" href="{{ route('index') }}#packages">Packages</a></li>
                     <li><a class="scroll" href="{{ route('index') }}#portfolio">projects</a></li>
                     <li><a class="scroll" href="#services">about</a></li>
-                    <li><a class="scroll" href="{{ route('company.profile') }}">Profile</a></li>
+                    <li><a class="scroll active" href="{{ route('company.profile') }}">Profile</a></li>
                     <li><a class="scroll" href="{{ route('team') }}">team</a></li>
                     <li><a class="scroll" href="{{ route('contact') }}">contact</a></li>
 
