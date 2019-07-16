@@ -10,6 +10,11 @@
     <meta property="og:title"              content="TECHmet IT Solutions" />
     <meta property="og:description"        content="your TECH demands to be MET" />
     <meta property="og:image"              content="/images/logo-big2.png" />
+    <meta property="og:url"            content="http://www.techmetbd.com" />
+    <meta property="og:type"               content="article" />
+    <meta property="og:title"              content="TECHmet IT Solutions" />
+    <meta property="og:description"        content="your TECH demands to be MET" />
+    <meta property="og:image"              content="/images/logo-big2.png" />
      <!-- Favicon and Apple Icons-->
 
     <!-- SEO Meta Tags-->
@@ -55,16 +60,26 @@
         }
     </style>
 
-</head>
+<!-- Hotjar Tracking Code for https://techmetbd.com -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1368141,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script> </head>
 
 
 <body data-spy="scroll" data-target=".nav-menu" data-offset="50">
 
-<div id="pageloader">
+<!-- <div id="pageloader">
     <div class="loader-item">
         <img src="public/Site/images/loading.gif" alt='loader'/>
     </div>
-</div>
+</div> -->
 
 <!-- Home Section -->
 <section id="home" class="">
@@ -818,7 +833,7 @@
 <script type="text/javascript" src="public/Site/js/jquery.isotope.js"></script>
 <script type="text/javascript" src="public/Site/js/rev-slider/jquery.themepunch.plugins.min.js"></script>
 <script type="text/javascript" src="public/Site/js/rev-slider/jquery.themepunch.revolution.min.js"></script>
-<script type="text/javascript" src="public/Site/js/jquery.mb.YTPlayer.js"></script>
+<script type="text/javascript" src="public/Site/js/jquery.mb.YTPlayer.js"></script> -->
 <script type="text/javascript" src="public/Site/js/jquery.fitvids.js"></script>
 <script type="text/javascript" src="public/Site/js/plugins.js"></script>
 
