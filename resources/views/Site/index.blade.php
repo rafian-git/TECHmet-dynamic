@@ -119,6 +119,7 @@
                 <ul class="nav dropdown-menu fullwidth" role="menu">
                     <li><a class="scroll" href="#home">home</a></li>
                     <li><a class="scroll" href="#about">services</a></li>
+                    <li><a class="scroll" href="#packages">Packages</a></li>
                     <li><a class="scroll" href="#portfolio">projects</a></li>
                     <li><a class="scroll" href="#services">about</a></li>
                     <li><a class="scroll" href="{{ route('company.profile') }}">Profile</a></li>
@@ -287,9 +288,18 @@
                         <p class="stext p6">Our goal is to go beyond the typical scope of application development<br/>
                         </p>
                     </div>
-
-
                 </li>
+
+
+                                <!-- Slide 2-->
+                                <li class="revslide" data-transition="random" data-slotamount="7" data-masterspeed="800">
+                                    <img src="public/Site/images/rev-slider/slide4.jpg" alt="slidebg3" data-bgfit="cover" data-bgposition="left top"
+                                         data-bgrepeat="no-repeat">
+                                             </li>
+                                             <li class="revslide" data-transition="random" data-slotamount="7" data-masterspeed="800">
+                                                 <img src="public/Site/images/rev-slider/slide5.jpg" alt="slidebg3" data-bgfit="cover" data-bgposition="left top"
+                                                      data-bgrepeat="no-repeat">
+                                                          </li>
 
             </ul>
         </div>
