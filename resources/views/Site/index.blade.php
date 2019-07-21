@@ -614,7 +614,7 @@
             </div>
 
             <div style="text-align: center;">
-                <a class="btn btn-success" href="{{ route('show.all.projects') }}" style="text-align: center; margin: 30px;">SHOW ALL PROJECTS</a>
+                <a class="btn btn-info" href="{{ route('show.all.projects') }}" style="text-align: center; margin: 30px;">SHOW ALL PROJECTS</a>
             </div>
         </div>
 
@@ -623,7 +623,7 @@
 </section>
 
 
-<section id="services" style="margin-bottom: 0;" class="contain">
+<section id="services" style="margin-bottom: 0; margin-top: 20px;" class="contain">
     <div class="services bg parallax2">
 
         <div class="about inner" style="padding-bottom: 0px;">
