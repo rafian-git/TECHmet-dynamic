@@ -75,11 +75,11 @@
 
 <body data-spy="scroll" data-target=".nav-menu" data-offset="50">
 
-<!-- <div id="pageloader">
+<div id="pageloader">
     <div class="loader-item">
         <img src="public/Site/images/loading.gif" alt='loader'/>
     </div>
-</div> -->
+</div>
 
 <!-- Home Section -->
 <section id="home" class="">
@@ -588,9 +588,7 @@
                 </ul>
             </div>
 
-
             <div class="items ">
-
                 @foreach($projects as $p)
                     <div class="work col-xs-4
                         @foreach($project_category as $pc)
@@ -612,9 +610,11 @@
                         </a>
                     </div>
                 @endforeach
-
                 <div class="clear"></div>
+            </div>
 
+            <div style="text-align: center;">
+                <a class="btn btn-success" href="{{ route('show.all.projects') }}" style="text-align: center; margin: 30px;">SHOW ALL PROJECTS</a>
             </div>
         </div>
 

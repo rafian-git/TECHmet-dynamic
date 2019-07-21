@@ -12,8 +12,7 @@ class SiteController extends Controller
 {
     public function index()
     {
-
-        $project = Project::where('deleted_at', null)->Get();
+        $project = Project::where('deleted_at', null)->paginate(6);
         $category = Category::all();
         $project_category = Project_Category_Relation::leftJoin('category','category.category_id', 'project_category_relation.fk_category_id')->get();
 
@@ -65,4 +64,16 @@ class SiteController extends Controller
     public function companyProfile(){
         return view('Site.companyProfile');
     }
+
+    public function showProjects(){
+
+        $project = Project::where('deleted_at', null)->get();
+        $category = Category::all();
+        $project_category = Project_Category_Relation::leftJoin('category','category.category_id', 'project_category_relation.fk_category_id')->get();
+
+        return view('Site/allprojects')->with('category', $category)
+                                            ->with('projects', $project)
+                                            ->with('project_category', $project_category);
+    }
+
 }
